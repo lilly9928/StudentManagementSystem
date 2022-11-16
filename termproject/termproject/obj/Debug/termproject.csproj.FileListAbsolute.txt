@@ -1,0 +1,17 @@
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\termproject.exe.config
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\termproject.exe
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\termproject.pdb
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.csproj.ResolveComReference.cache
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.Form1.resources
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.Properties.Resources.resources
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.TeacherForm.resources
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.csproj.GenerateResource.cache
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.csproj.CoreCompileInputs.cache
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.exe
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.pdb
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.StudentForm.resources
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\MyExcelClassLibrary.dll
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\MyExcelClassLibrary.pdb
+C:\Users\kimjieun\source\repos\termproject\termproject\obj\Debug\termproject.csproj.CopyComplete
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\MetroFramework.dll
+C:\Users\kimjieun\source\repos\termproject\termproject\bin\Debug\MetroFramework.Fonts.dll
